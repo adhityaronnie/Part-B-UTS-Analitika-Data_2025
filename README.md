@@ -17,6 +17,7 @@ Build and fit one of the following models based on the dataset type (20 pts):
 - Linear Regression (e.g., predict premium or claim amount).
 - Logistic Regression (e.g., predict lapse/churn or large claim indicator).
 - Poisson Regression (e.g., model number of claims).
+  
 Evaluate the model (R², accuracy, deviance, or another suitable metric) (5 pts).
 Interpret at least two model coefficients in actuarial/business terms (5 pts).
 
