@@ -1,4 +1,4 @@
-Instructions: Use the dataset assigned to you below. Submit one Jupyter Notebook or RMarkdown file containing all code, visualizations, and answers. Comment your code clearly.
+Instructions: Use the dataset assigned to you. Submit one Jupyter Notebook or RMarkdown file containing all code, visualizations, and answers. Comment your code clearly.
 
 Question 1 – Data Cleaning (25 pts)
 Inspect the dataset and list all missing values.
