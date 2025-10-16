@@ -13,12 +13,12 @@ Plot one categorical distribution (e.g., policy type, region) (5 pts).
 Explore at least one bivariate relationship (e.g., claim amount vs. age) (10 pts).
 
 Question 3 – Predictive Modeling (30 pts)
-Build and fit one of the following models based on the dataset type:
-Linear Regression (e.g., predict premium or claim amount).
-Logistic Regression (e.g., predict lapse/churn or large claim indicator).
-Poisson Regression (e.g., model number of claims).
-Evaluate the model (R², accuracy, deviance, or another suitable metric).
-Interpret at least two model coefficients in actuarial/business terms.
+Build and fit one of the following models based on the dataset type (20 pts):
+- Linear Regression (e.g., predict premium or claim amount).
+- Logistic Regression (e.g., predict lapse/churn or large claim indicator).
+- Poisson Regression (e.g., model number of claims).
+Evaluate the model (R², accuracy, deviance, or another suitable metric) (5 pts).
+Interpret at least two model coefficients in actuarial/business terms (5 pts).
 
 Question 4 – Reporting (20 pts)
 Summarize your approach to cleaning, visualization, and modeling.
