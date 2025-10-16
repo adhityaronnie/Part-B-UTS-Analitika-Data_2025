@@ -1,1 +1,25 @@
+Instructions: Use the dataset assigned to you below. Submit one Jupyter Notebook or RMarkdown file containing all code, visualizations, and answers. Comment your code clearly.
 
+Question 1 – Data Cleaning (25 pts)
+Inspect the dataset and list all missing values.
+Propose and implement suitable imputation methods for numerical and categorical variables.
+Detect outliers in at least two numeric variables using IQR or z-score and treat them appropriately.
+Remove or handle duplicate records.
+
+Question 2 – Exploratory Data Analysis (25 pts)
+Compute descriptive statistics (mean, median, std, quantiles) for numeric variables.
+Plot the distribution of at least two key numeric variables (e.g., premium, claim amount).
+Plot one categorical distribution (e.g., policy type, region).
+Explore at least one bivariate relationship (e.g., claim amount vs. age).
+
+Question 3 – Predictive Modeling (30 pts)
+Build and fit one of the following models based on the dataset type:
+Linear Regression (e.g., predict premium or claim amount).
+Logistic Regression (e.g., predict lapse/churn or large claim indicator).
+Poisson Regression (e.g., model number of claims).
+Evaluate the model (R², accuracy, deviance, or another suitable metric).
+Interpret at least two model coefficients in actuarial/business terms.
+
+Question 4 – Reporting (20 pts)
+Summarize your approach to cleaning, visualization, and modeling.
+Discuss key actuarial insights and how they could support pricing, reserving, or customer management decisions.
