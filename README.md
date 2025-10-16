@@ -1,10 +1,10 @@
 Instructions: Use the dataset assigned to you. Submit one Jupyter Notebook or RMarkdown file containing all code, visualizations, and answers. Comment your code clearly.
 
 Question 1 – Data Cleaning (25 pts)
-Inspect the dataset and list all missing values.
-Propose and implement suitable imputation methods for numerical and categorical variables.
-Detect outliers in at least two numeric variables using IQR or z-score and treat them appropriately.
-Remove or handle duplicate records.
+Inspect the dataset and list all missing values (5 pts). 
+Propose and implement suitable imputation methods for numerical and categorical variables (5 pts).
+Detect outliers in at least two numeric variables using IQR or z-score and treat them appropriately (10 pts).
+Remove or handle duplicate records (5 pts).
 
 Question 2 – Exploratory Data Analysis (25 pts)
 Compute descriptive statistics (mean, median, std, quantiles) for numeric variables.
